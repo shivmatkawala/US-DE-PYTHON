@@ -1,0 +1,2 @@
+We learned how to wrte in file using open function.
+This is october month..
