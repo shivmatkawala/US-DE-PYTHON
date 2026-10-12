@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,customer_email,product_name,category,quantity,unit_price,total_amount,payment_method,order_status,shipping_city
+ORD-1001,2026-09-01,Aarav Sharma,aarav.sharma@example.com,Wireless Bluetooth Earbuds,Electronics,1,2499.00,2499.00,UPI,Delivered,Hyderabad
+ORD-1002,2026-09-03,Priya Reddy,priya.reddy@example.com,Cotton Kurti,Fashion,2,899.00,1798.00,Credit Card,Delivered,Bengaluru
+ORD-1003,2026-09-05,Rohan Mehta,rohan.mehta@example.com,Non-Stick Cookware Set,Home & Kitchen,1,3299.00,3299.00,Debit Card,Shipped,Mumbai
+ORD-1004,2026-09-08,Sneha Iyer,sneha.iyer@example.com,Running Shoes,Footwear,1,2799.00,2799.00,UPI,Delivered,Chennai
+ORD-1005,2026-09-10,Vikram Singh,vikram.singh@example.com,Smartwatch,Electronics,1,4999.00,4999.00,Credit Card,Processing,Delhi
+ORD-1006,2026-09-12,Ananya Gupta,ananya.gupta@example.com,Yoga Mat,Sports,2,699.00,1398.00,Cash on Delivery,Delivered,Pune
+ORD-1007,2026-09-15,Karthik Nair,karthik.nair@example.com,Python Programming Book,Books,3,549.00,1647.00,Net Banking,Delivered,Kochi
+ORD-1008,2026-09-18,Meera Joshi,meera.joshi@example.com,Face Moisturizer,Beauty,2,449.00,898.00,UPI,Cancelled,Ahmedabad
+ORD-1009,2026-09-22,Arjun Patel,arjun.patel@example.com,Laptop Backpack,Accessories,1,1599.00,1599.00,Debit Card,Shipped,Surat
+ORD-1010,2026-09-25,Divya Krishnan,divya.krishnan@example.com,Mixer Grinder,Home & Kitchen,1,3799.00,3799.00,Credit Card,Delivered,Hyderabad
